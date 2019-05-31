@@ -1,0 +1,8 @@
+# default values for blocks
+default height:38 width:38 hit_points:1
+
+# block definitions
+bdef symbol:M fill:image(block_images/music.jpg)
+
+# spacers definitions
+sdef symbol:# width:38

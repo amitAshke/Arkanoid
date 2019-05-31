@@ -1,0 +1,8 @@
+# default values for blocks
+default height:83 width:147 hit_points:1
+
+# block definitions
+bdef symbol:X fill:image(block_images/doom_imp.jpg)
+
+# spacers definitions
+sdef symbol:& width:25

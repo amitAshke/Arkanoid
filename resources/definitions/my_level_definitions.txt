@@ -1,0 +1,58 @@
+# Level 1
+START_LEVEL
+level_name:Books Theme
+ball_velocities:45,500 -45,500 30,500 -30,500
+background:image(background_images/books_background.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/my_block_definitions_3.txt
+blocks_start_x:50
+blocks_start_y:80
+row_height:150
+num_blocks:20
+START_BLOCKS
+$$AA$$AA
+$$AA$$AA
+$$AA$$AA
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+START_LEVEL
+level_name:Music Theme
+ball_velocities:600,405 -600,405
+background:image(background_images/music_background.jpg)
+paddle_speed:630
+paddle_width:180
+block_definitions:definitions/my_block_definitions_2.txt
+blocks_start_x:50
+blocks_start_y:80
+row_height:38
+num_blocks:52
+START_BLOCKS
+MMMMMMMMMMMMMMMMMM
+MM##############MM
+MM##############MM
+MM##############MM
+MM##############MM
+MMMMMMMMMMMMMMMMMM
+END_BLOCKS
+END_LEVEL
+
+#‬ Level 3
+START_LEVEL
+level_name:Doom Theme
+ball_velocities:90,750
+background:image(background_images/doom_background.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/my_block_definitions_1.txt
+blocks_start_x:50
+blocks_start_y:80
+row_height:150
+num_blocks:7
+START_BLOCKS
+X&X&X&X
+‪&‬&X‪&‬X‪&‬X
+END_BLOCKS
+END_LEVEL

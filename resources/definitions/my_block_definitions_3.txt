@@ -1,0 +1,8 @@
+# default values for blocks
+default height:108 width:144 hit_points:1
+
+# block definitions
+bdef symbol:A fill:image(block_images/book_block.jpg)
+
+# spacers definitions
+sdef symbol:$ width:25
